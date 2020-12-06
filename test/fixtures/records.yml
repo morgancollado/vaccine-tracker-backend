@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  patient: one
+  provider: one
+  location: MyString
+  booster_date: 2020-12-05 19:42:57
+  second_shot: false
+  first_shot_record_id: 1
+
+two:
+  patient: two
+  provider: two
+  location: MyString
+  booster_date: 2020-12-05 19:42:57
+  second_shot: false
+  first_shot_record_id: 1
