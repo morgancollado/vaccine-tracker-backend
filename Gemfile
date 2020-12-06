@@ -20,6 +20,8 @@ gem 'puma', '~> 4.1'
 
  gem 'dotenv-rails', groups: [:development, :test]
 
+ gem 'simple_command'
+
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
